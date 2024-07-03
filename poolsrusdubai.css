@@ -1,0 +1,43 @@
+body{
+    margin: -20px;
+    padding: 0px;
+   
+
+}
+.hom{
+    
+    background-color: rgb(200, 192, 192);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: azure;
+
+}
+a{
+    padding: 80px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: rgb(79, 176, 232);
+   font-family: 'Times New Roman', Times, serif;
+}
+.anto{
+    margin: 0px 0px 70px 800px;
+     
+}
+dt{
+    color: rgb(0, 0, 0);
+   font-family: 'Times New Roman', Times, serif;
+   font-size: x-large;
+}
+dl{
+    color: rgb(230, 117, 134);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.pic{
+    padding: 200px;
+}
+button:hover{
+    background-color: rgb(143, 248, 248);
+}
